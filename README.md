@@ -1,4 +1,4 @@
 oc_git
 ======
 
-Exercice OpenClassroom 
+Exercice OpenClassroom avec des modifications
